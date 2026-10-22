@@ -1,16 +1,13 @@
-## Hi there 👋
+## Conor O'Hanlon
 
-<!--
-**ConorJOHanlon/ConorJOHanlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning engineer, 11 years. Founder of [Clann](https://getclann.com), a private, end-to-end encrypted family photo app: 900+ DAU, profitable, built solo.
 
-Here are some ideas to get you started:
+Previously at **Monzo** (fraud, distributed systems) and **Venn** (card controls, Apple Pay, MFA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Go · TypeScript · React Native/Expo · Postgres/Supabase · AWS
+
+**Open source:** [clann-e2ee](https://github.com/ClannApp/clann-e2ee): group E2EE for a shared photo library (CLN1 envelope, signed device trust, epoch key rotation).
+
+Most of my work lives in private repos. Happy to walk through any of it.
+
+[conorohanlon.com](https://conorohanlon.com)
